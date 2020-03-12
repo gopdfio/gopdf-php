@@ -1,0 +1,14 @@
+{
+    "name": "dinacode/gopdf-php",
+    "description": "Convert HTML documents to PDF using the gopdf API.",
+    "keywords": ["html", "pdf", "api", "gopdf", "convert", "document"],
+    "homepage": "https://www.dinacode.com",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "require": {
+        "php" : ">=5.4.0"
+    },
+    "autoload": {
+        "psr-4": { "GoPdf\\" : "src/" }
+    }
+}
