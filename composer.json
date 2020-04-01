@@ -4,7 +4,7 @@
     "keywords": ["html", "pdf", "api", "gopdf", "convert", "document"],
     "homepage": "https://www.gopdf.dinacode.com",
     "license": "MIT",
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {
         "php" : ">=5.4.0"
     },
