@@ -1,8 +1,8 @@
 {
-    "name": "gopdfsoftware/gopdf-php",
+    "name": "gopdfio/gopdf-php",
     "description": "Convert HTML documents to PDF using the gopdf API.",
     "keywords": ["html", "pdf", "api", "gopdf", "convert", "document"],
-    "homepage": "https://www.gopdf.dinacode.com",
+    "homepage": "https://github.com/gopdfio/gopdf-php",
     "license": "MIT",
     "minimum-stability": "dev",
     "require": {
